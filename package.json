@@ -1,0 +1,17 @@
+{
+  "name": "urbaniacafe",
+  "version": "1.0.0",
+  "description": "Cafe & Lounge Website",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D.D.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.3"
+  }
+}
